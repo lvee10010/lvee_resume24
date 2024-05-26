@@ -1,0 +1,45 @@
+.dg.ac {
+    margin-top: 70px !important;
+}
+
+.imageDew, .heather {
+    width: 100% !important;
+}
+
+.imageDash {
+    overflow-x: auto;
+    max-height: 400px;
+}
+
+.displayCo {
+    opacity: 0;
+}
+/* .heather {
+    position: fixed;
+} */
+
+
+#D3Canva {
+    float: left !important;
+}
+#ObjectCanva {
+    float: right !important;
+}
+
+/* canvas{
+    
+ } */
+
+#D3Canva, #ObjectCanva {
+    /* width: 821px !important;
+    height: 649px !important; */
+    width:50%;
+    max-width:50%;
+    height:100%;
+}
+
+.flexMe01 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
