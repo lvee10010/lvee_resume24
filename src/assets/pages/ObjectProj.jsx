@@ -37,9 +37,9 @@ const Web = () => {
           <div className="absolute bottom-2 left-2 blue-gradient_text">
             <h6>You can move the visual around</h6>
           </div>
-          <div>
+          {/* <div>
             <D3Section />
-          </div>
+          </div> */}
           <div>
             <Objct />
           </div>
